@@ -1,0 +1,3 @@
+```
+meteor add flynn:histories
+```
